@@ -1,0 +1,47 @@
+{
+  "name": "js-study",
+  "version": "1.0.0",
+  "description": "",
+  "main": "BaseJSscript.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bullet26/project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "browserslist": [
+    "> 1%"
+  ],
+  "bugs": {
+    "url": "https://github.com/bullet26/project/issues"
+  },
+  "homepage": "https://github.com/bullet26/project#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.17.6",
+    "@babel/core": "^7.17.9",
+    "@babel/polyfill": "^7.12.1",
+    "@babel/preset-env": "^7.16.11",
+    "babel-loader": "^8.2.4",
+    "browser-sync": "^2.27.9",
+    "core-js": "^3.21.1",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-cli": "^2.3.0",
+    "gulp-rename": "^2.0.0",
+    "gulp-sass": "^5.1.0",
+    "json-server": "^0.17.0",
+    "sass": "^1.51.0",
+    "webpack": "^5.71.0",
+    "webpack-cli": "^4.9.2"
+  },
+  "dependencies": {
+    "animate.css": "^4.1.1",
+    "es6-promise": "^4.2.8",
+    "jquery": "^3.6.0",
+    "nodelist-foreach-polyfill": "^1.2.0"
+  }
+}
